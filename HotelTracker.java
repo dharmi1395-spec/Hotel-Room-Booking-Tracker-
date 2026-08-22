@@ -1,6 +1,5 @@
 
 //Dharmi Rajendrabhai Gajera (3484039)
-//Bhargav Dharmeshbhai
 
 import java.util.Scanner;
 
